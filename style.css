@@ -1,0 +1,166 @@
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top:70px;
+    margin-left: -50px;
+    position: absolute;
+  }
+.dot:hover{
+    background-color: yellow;
+}
+
+.invisible{
+    position: absolute;
+    margin-top: 23px;
+    margin-left: -100px;
+    color:red;
+    background:rgba(0,0,0,.9);
+    padding:15px;
+    border-radius:3px;
+    box-shadow:0 0 2px rgba(0,0,0,.5);
+    opacity: 0;
+}
+.invisible:hover{
+    opacity: 1;
+}
+
+.dot2{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top:170px;
+    margin-left: 60px;
+    position: absolute;
+}
+.dot2:hover{
+    background-color: gold;
+}
+.invisible2{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 25px;
+    color:red;
+    background:rgba(0,0,0,.9);
+    border-radius:3px;
+    box-shadow:0 0 2px rgba(0,0,0,.5);
+    opacity: 0;
+}
+.invisible2:hover{
+    opacity: 1;
+}
+
+.dot3{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top:230px;
+    margin-left: -55px;
+    position: absolute;
+}
+
+.dot3:hover{
+    background-color: gold;
+}
+.invisible3{
+    position: absolute;
+    margin-top: 23px;
+    margin-left: -80px;
+    color:red;
+    background:rgba(0,0,0,.9);
+    border-radius:3px;
+    box-shadow:0 0 2px rgba(0,0,0,.5);
+    opacity: 0;
+}
+.invisible3:hover{
+    opacity: 1;
+}
+
+.dot4{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top:260px;
+    margin-left: 30px;
+    position: absolute;
+}
+.dot4:hover{
+    background-color: gold;
+}
+.invisible4{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 0px;
+    color:red;
+    background:rgba(0,0,0,.9);
+    border-radius:3px;
+    box-shadow:0 0 2px rgba(0,0,0,.5);
+    opacity: 0;
+}
+.invisible4:hover{
+    opacity: 1;
+}
+
+.dot5{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top:330px;
+    margin-left: -25px;
+    position: absolute;
+}
+.dot5:hover{
+    background-color: gold;
+}
+.invisible5{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -25px;
+    color:red;
+    background:rgba(0,0,0,.9);
+    border-radius:3px;
+    box-shadow:0 0 2px rgba(0,0,0,.5);
+    opacity: 0;
+}
+.invisible5:hover{
+    opacity: 1;
+}
+
+.dot6{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top:425px;
+    margin-left: 30px;
+    position: absolute;
+}
+.dot6:hover{
+    background-color: gold;
+}
+.invisible6{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -25px;
+    color:red;
+    background:rgba(0,0,0,.9);
+    border-radius:3px;
+    box-shadow:0 0 2px rgba(0,0,0,.5);
+    opacity: 0;
+}
+.invisible6:hover{
+    opacity: 1;
+}
